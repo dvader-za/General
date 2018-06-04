@@ -1,1 +1,28 @@
+auth sites and walkthroughs
+
 https://superuser.com/questions/1059987/how-can-i-quickly-set-up-a-lab-with-802-1x-wired-authentication-without-a-swit
+https://android.googlesource.com/platform/external/wpa_supplicant_8/+/brillo-m9-dev/hostapd/wired.conf
+https://help.ubuntu.com/community/Network802.1xAuthentication
+https://www.howtoforge.com/tutorial/how-to-install-a-wireless-hotspot-with-captive-page-in-linux-using-coovachilli/
+http://scordialinux.lucylaika.ovh/2015/05/debian-wifi-hotspot-with-coovachilli-freeradius-mysql-and-daloradius/
+https://serverfault.com/questions/762296/captive-portal-with-iptables-and-local-dns-server
+https://blog.trifork.com/2013/01/15/building-a-captive-portal-controlling-access-to-the-internet-from-your-network/
+https://github.com/jee1mr/captive-portal
+http://dev.wifidog.org/wiki/doc/install/debian
+https://citricks.net/install-coova-captive-portal/
+https://www.raspberrypi.org/forums/viewtopic.php?t=84680
+http://sirlagz.net/2013/08/23/how-to-captive-portal-on-the-raspberry-pi/
+https://github.com/pihomeserver/Kupiki-Hotspot-Script
+https://pimylifeup.com/raspberry-pi-captive-portal/
+https://en.wikipedia.org/wiki/Captive_portal
+
+hosting
+https://za.godaddy.com/hosting/vps-hosting#features
+https://www.afrihost.com/site/product/linux_hosting
+https://www.techradar.com/news/best-linux-web-hosting
+https://www.inmotionhosting.com/business-hosting-promo?irgwc=1&clickid=3on2pvy%3AbyZ43fqVMSV710BLUkjRIyzRJxEM3E0&affiliates=221109
+
+
+license server
+https://ideaserver.pro/
+http://jtb.whoniverse.eu/
