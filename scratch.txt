@@ -26,3 +26,13 @@ https://www.inmotionhosting.com/business-hosting-promo?irgwc=1&clickid=3on2pvy%3
 license server
 https://ideaserver.pro/
 http://jtb.whoniverse.eu/
+
+SQL login
+P@ssw0rd
+
+Timesheet
+8:30 tuesday
+8:30 wednesday
+9:30 thursday
+9:00 friday
+9:00 monday
