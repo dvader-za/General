@@ -30,9 +30,12 @@ http://jtb.whoniverse.eu/
 SQL login
 P@ssw0rd
 
+NBRACHQ102
+
 Timesheet
 8:30 tuesday
 8:30 wednesday
 9:30 thursday
 9:00 friday
 9:00 monday
+14:30 tuesday
