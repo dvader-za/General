@@ -30,7 +30,11 @@ http://jtb.whoniverse.eu/
 SQL login
 P@ssw0rd
 
+User ID=CARS_SQL;Password=C@r$$001;
+User ID=CARS_SQL;Password=C@r$_5Q1;
+
 NBRACHQ102
+vmracsqldevqa
 
 Timesheet
 8:30 tuesday
